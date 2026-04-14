@@ -1,0 +1,10 @@
+1|Machine learning is amazing for search systems
+2|Information retrieval is a core part of artificial intelligence
+3|Search engines use indexing and ranking techniques
+4|Deep learning improves semantic search quality
+5|BM25 is a strong ranking function in information retrieval
+6|Boolean queries are useful for strict filtering
+7|TF IDF is a classic vector space model
+8|Embeddings are modern vector representations for text
+9|Tokenization and normalization help text indexing
+10|Relevance ranking is the heart of search
